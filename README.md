@@ -3,8 +3,9 @@ This Power BI dashboard provides a comprehensive overview of ATM transactions, c
 
 ## Dashboard Overview
 ![ATM Dashboard](http://github.com/shikhachaurasia7/Advanced_PowerBI_Dashboard/blob/main/Screenshot%202025-02-16%20164547.png)
-[](https://github.com/shikhachaurasia7/Advanced_PowerBI_Dashboard/blob/main/Screenshot%202025-02-16%20164631.png)
-[](https://github.com/shikhachaurasia7/Advanced_PowerBI_Dashboard/blob/main/Screenshot%202025-02-16%20164657.png)
+![ATM Dashboard](https://github.com/shikhachaurasia7/Advanced_PowerBI_Dashboard/blob/main/Screenshot%202025-02-16%20164631.png)
+![ATM Dashboard](https://github.com/shikhachaurasia7/Advanced_PowerBI_Dashboard/blob/main/Screenshot%202025-02-16%20164657.png)
+
 ## Cost Analysis (ATM Cost and Maintenance)
 This section provides a breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
 
